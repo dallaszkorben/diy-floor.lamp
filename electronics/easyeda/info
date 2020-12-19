@@ -1,0 +1,203 @@
+{
+  "uuid": "d0a2e6144c8840ec58d7129003ed4384",
+  "path": "Offline/Lamp",
+  "name": "Lamp",
+  "content": "",
+  "created_at": "2020-11-08 22:51:18",
+  "updated_at": "2020-12-15 02:21:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "a29c926f35504daf21a8db6c7f7238e1",
+      "title": "DeemController-Schema",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b3b96c7184914b0a957b0d99fe2c07b3": 1,
+        "8ca8a4c6a14e41ca9e12a15074aa6b5f": 1,
+        "c7c79151249f4aa5bf1d48a01a973b8c": 1,
+        "b9438188e8984bdeb35d8e8a4ee6e8cb": 1,
+        "bdee59ced4714dafae8c603cb92d8f92": 1,
+        "c666838b4e3340f2b650f40f99d520ee": 3,
+        "ed535c8fe56245c1a5180026fdcb7303": 2,
+        "f0bc163659d742bc8f021d00cdeb85b2": 3,
+        "3721972c581d4f99b226effb1db7a790": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100pF",
+          1,
+          "RAD-0.1",
+          "C2",
+          {
+            "BOM_Supplier Part": "C9339",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "LCSC",
+            "BOM_Manufacturer Part": "100PF/50V10%",
+            "puuid": "5928a14e2fcb4bddb6d9e13728e0c32f",
+            "uuid": "8ca8a4c6a14e41ca9e12a15074aa6b5f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "IRF520N",
+          1,
+          "TO-220AB",
+          "Q1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "122e43cd33844ca9980f975988247513",
+            "uuid": "b3b96c7184914b0a957b0d99fe2c07b3"
+          }
+        ],
+        [
+          "Potentiometer",
+          1,
+          "POTENTIOMETER_ALPS_RK163_SINGLE_VERTICAL",
+          "R1",
+          {
+            "BOM_Manufacturer Part": "Potentiometer",
+            "puuid": "3fac02af571e4b249f2ef134cccfac83",
+            "uuid": "b9438188e8984bdeb35d8e8a4ee6e8cb"
+          }
+        ],
+        [
+          "NE555",
+          1,
+          "NE555",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "NE555",
+            "BOM_Supplier Part": "NE555",
+            "BOM_Supplier": "Romi",
+            "puuid": "f0058f24c37c478895aa51506ff018ab",
+            "uuid": "bdee59ced4714dafae8c603cb92d8f92"
+          }
+        ],
+        [
+          "10pF",
+          1,
+          "CERAMIC-2.54",
+          "C1",
+          {
+            "BOM_Supplier Part": "302010208",
+            "BOM_Supplier": "SeeedStudio",
+            "BOM_Manufacturer Part": "CC1-F5SL2A101KSPW",
+            "puuid": "393fd27d977147dda8b43db64b5be65b",
+            "uuid": "c7c79151249f4aa5bf1d48a01a973b8c"
+          }
+        ],
+        [
+          "KF301-2P",
+          3,
+          "KF301",
+          "U4,U1,U2",
+          {
+            "BOM_Manufacturer Part": "KF301",
+            "puuid": "c75674776cb24f1d8318a5275cea93fd",
+            "uuid": "c666838b4e3340f2b650f40f99d520ee"
+          }
+        ],
+        [
+          "1N4148",
+          2,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D3,D4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "ed535c8fe56245c1a5180026fdcb7303"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R_AXIAL-0.4",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R_AXIAL-0.4",
+          "R5,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ]
+      ],
+      "updateTime": 1607984358,
+      "createTime": 1604872318,
+      "histories": [],
+      "created_at": "2020-11-08 22:51:58",
+      "updated_at": "2020-12-14 23:19:18"
+    },
+    {
+      "uuid": "1c239eec0289c9c94d01462ae6522893",
+      "puuid": "d0a2e6144c8840ec58d7129003ed4384",
+      "title": "PCB_2020-12-14_03-30-47",
+      "filename": "PCB_2020-12-14_03-30-47.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5928a14e2fcb4bddb6d9e13728e0c32f": 1,
+        "bec79a4ea65a4f65ba290a03b598a762": 1,
+        "122e43cd33844ca9980f975988247513": 1,
+        "3fac02af571e4b249f2ef134cccfac83": 1,
+        "f0058f24c37c478895aa51506ff018ab": 1,
+        "393fd27d977147dda8b43db64b5be65b": 1,
+        "c75674776cb24f1d8318a5275cea93fd": 3,
+        "07f65a035ec440c9ba8d8743498f47ca": 2,
+        "5905db98cde4487fbb177070aa85bbe1": 3
+      },
+      "BOM": [],
+      "updateTime": 1607995264,
+      "createTime": 1607913047,
+      "histories": [],
+      "created_at": "2020-12-14 03:30:47",
+      "updated_at": "2020-12-15 02:21:04"
+    }
+  ],
+  "sort": [],
+  "title": "Lamp",
+  "foldername": "Lamp",
+  "schfilename": "Lamp.json",
+  "schfilemtime": 1607984358850
+}
