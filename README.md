@@ -8,7 +8,7 @@ The aim of this project is to build a dimmable LED lamp
 ### Electronics
 - Circuit
 
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/design.circuit.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/design.circuit.jpg' width='600'>
 
 ### 3D
 
