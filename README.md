@@ -25,10 +25,20 @@ The aim of this project is to build a dimmable LED lamp
 ### 3D Printed
 
 - Base Frame
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_001.jpg' width='600'>
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_001.jpg' width='300'>
 - Base Top
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_001.jpg' width='300'>
+
 - 4 pcs Base Legs
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_001.jpg' width='300'>
+
 - Base Nest
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_001.jpg' width='600'>
+
 - 5 pcs Rail (20cm)
 - Rail Button Section
 - Button
