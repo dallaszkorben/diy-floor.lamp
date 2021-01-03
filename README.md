@@ -29,7 +29,7 @@ The aim of this project is to build a dimmable LED lamp
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_001.jpg' width='300'>
 - Base Top
 
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_004.jpg' width='300'>
 
 - 4 pcs Base Legs
 
@@ -37,10 +37,18 @@ The aim of this project is to build a dimmable LED lamp
 
 - Base Nest
 
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_001.jpg' width='600'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_001.jpg' width='300'>
 
 - 5 pcs Rail (20cm)
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail/lamp.rail_003.jpg' width='300'>
+
 - Rail Button Section
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button/lamp.button_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button/lamp.button_002.jpg' width='300'>
+
+
 - Button
 - Button Washer
 
