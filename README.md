@@ -4,7 +4,7 @@ The aim of this project is to build a dimmable LED lamp
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/product/product_001.jpg' width='600' >
 
-## Plan
+## Design
 ### Electronics
 - Circuit
 
@@ -46,7 +46,7 @@ The aim of this project is to build a dimmable LED lamp
 
 ## Parts
 
-### Purchased
+### Purchased Parts
 
 - LEDVANCE 1.2m 20W/820 LED lamp
 - Performed Plate 200x100x2 mm
@@ -62,7 +62,7 @@ The aim of this project is to build a dimmable LED lamp
 - 1 pc IRF540N MOSFET
 - 1 pc NE555 IC
 
-### 3D Printed
+### 3D Printed Parts
 
 - Base Frame
 
