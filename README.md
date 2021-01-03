@@ -27,21 +27,31 @@ The aim of this project is to build a dimmable LED lamp
 - Base Frame
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_003.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_004.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_002.jpg' width='300'>
 - Base Top
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_004.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_003.jpg' width='300'>
 
 - 4 pcs Base Legs
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_002.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_003.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_004.jpg' width='300'>
 
 - Base Nest
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_002.jpg' width='300'>
 
 - 5 pcs Rail (20cm)
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail/lamp.rail_003.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail/lamp.rail_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail/lamp.rail_002.jpg' width='300'>
 
 - Rail Button Section
 
