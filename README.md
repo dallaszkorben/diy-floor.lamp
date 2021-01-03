@@ -49,10 +49,25 @@ The aim of this project is to build a dimmable LED lamp
 ### Purchased Parts
 
 - LEDVANCE 1.2m 20W/820 LED lamp
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/purchased.parts/purchased.lamp.jpg' width='300'>
+
 - Performed Plate 200x100x2 mm
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/purchased.parts/purchased.perforated.plate.jpg' width='300'>
+
 - 15 W Power Supply Constant Current Transformer 12V DC
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/purchased.parts/purchased.power.supply.jpg' width='300'>
+
 - IEC320 C8 Male 2 Pins Power Inlet Socket
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/purchased.parts/purchased.iec320.c8.socket.jpg' width='300'>
+
 - IEC320 C7 non-Polarized Power Cord
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/purchased.parts/purchased.iec320.c7.cord.jpeg' width='300'>
+
 - 2 pcs blue diffused led 5mm
 - 1 pc 100K logaritmic 16mm Potentiometer with switch
 - 1 pc 100 nF ceramic capacitor
