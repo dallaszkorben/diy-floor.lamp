@@ -1,7 +1,7 @@
 # Floor Lamp
 
-The aim of this project is to build a dimmable LED lamp
- - <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/product/product_001.jpg' width='600' >
+- The aim of this project is to build a dimmable LED lamp
+ <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/product/product_001.jpg' width='600' >
 
 ## Parts
 
@@ -24,7 +24,7 @@ The aim of this project is to build a dimmable LED lamp
 ### 3D Printed
 
 - Base Frame
-  - <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_001.jpg' width='600'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_001.jpg' width='600'>
 - Base Top
 - 4 pcs Base Legs
 - Base Nest
