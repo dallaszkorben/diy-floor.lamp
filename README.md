@@ -1,7 +1,7 @@
 # Floor Lamp
 
 The aim of this project is to build a dimmable LED lamp
-<img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/product/product_001.jpg width="600"' >
+<img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/product/product_001.jpg' width='600' >
 
 ## Parts
 
