@@ -6,9 +6,20 @@ The aim of this project is to build a dimmable LED lamp
 
 ## Plan
 ### Electronics
+- Circuit
 
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/design.circuit.jpg' width='300'>
 
 ### 3D
+
+- Base Frame
+- Base Top
+- Base Nest
+- Base Legs
+- Rail
+- Rail Button Section
+- Button
+- Button Washer
 
 ## Parts
 
@@ -36,21 +47,22 @@ The aim of this project is to build a dimmable LED lamp
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_003.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_004.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.frame.230V.thin/lamp.frame.230V.thin_002.jpg' width='300'>
+  
 - Base Top
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_004.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.top.230V.thin/lamp.base.top_003.jpg' width='300'>
+
+- Base Nest
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_002.jpg' width='300'>
 
 - 4 pcs Base Legs
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_001.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_002.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.leg/lamp.base.leg_004.jpg' width='300'>
-
-- Base Nest
-
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_001.jpg' width='300'>
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.base.nest/lamp.base.nest_002.jpg' width='300'>
 
 - 5 pcs Rail (20cm)
 
