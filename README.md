@@ -73,8 +73,10 @@ The aim of this project is to build a dimmable LED lamp
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button.washer/lamp.button.washer_001.jpg' width='300'>
 
-### Circuit
- 
+### Elctronics
+
+- Circuit
+
    <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/electronics/lamp.circuit_001.jpg' width='300'>
    <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/electronics/lamp.circuit_002.jpg' width='300'>
    <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/electronics/lamp.circuit_003.jpg' width='300'>
