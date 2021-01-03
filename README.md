@@ -8,18 +8,41 @@ The aim of this project is to build a dimmable LED lamp
 ### Electronics
 - Circuit
 
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/design.circuit.jpg' width='600'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/electronics/design.circuit.jpg' width='600'>
 
 ### 3D
 
 - Base Frame
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.base.frame.jpg' width='300'>
+
 - Base Top
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.base.top.jpg' width='300'>
+
 - Base Nest
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.base.nest.jpg' width='300'>
+
 - Base Legs
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.base.leg.jpg' width='300'>
+
 - Rail
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.rail.jpg' width='300'>
+
 - Rail Button Section
-- Button
-- Button Washer
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.rail.button.section.jpg' width='300'>
+
+- Potmeter Button
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.pot.button.jpg' width='300'>
+
+- Potmeter Washer
+
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/design/3d/lamp.pot.washer.jpg' width='300'>
 
 ## Parts
 
@@ -76,14 +99,14 @@ The aim of this project is to build a dimmable LED lamp
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail.button.section/lamp.rail.button.section_002.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail.button.section/lamp.rail.button.section_003.jpg' width='300'>
 
-- Button
+- Potmeter Button
 
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button/lamp.button_001.jpg' width='300'>
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button/lamp.button_002.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.pot/lamp.pot.button_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.pot/lamp.pot.button_002.jpg' width='300'>
 
-- Button Washer
+- Potmeter Washer
 
-  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button.washer/lamp.button.washer_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.pot.washer/lamp.pot.washer_001.jpg' width='300'>
 
 ### Elctronics
 
