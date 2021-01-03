@@ -4,6 +4,12 @@ The aim of this project is to build a dimmable LED lamp
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/product/product_001.jpg' width='600' >
 
+## Plan
+### Electronics
+
+
+### 3D
+
 ## Parts
 
 ### Purchased
@@ -56,7 +62,7 @@ The aim of this project is to build a dimmable LED lamp
 
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail.button.section/lamp.rail.button.section_001.jpg' width='300'>
   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail.button.section/lamp.rail.button.section_002.jpg' width='300'>
-<img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail.button.section/lamp.rail.button.section_003.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.rail.button.section/lamp.rail.button.section_003.jpg' width='300'>
 
 - Button
 
@@ -65,7 +71,11 @@ The aim of this project is to build a dimmable LED lamp
 
 - Button Washer
 
-<img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button.washer/lamp.button.washer_001.jpg' width='300'>
+  <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/3d/lamp.button.washer/lamp.button.washer_001.jpg' width='300'>
 
 ### Circuit
  
+   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/electronincs/lamp.curcit_001.jpg' width='300'>
+   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/electronincs/lamp.curcit_002.jpg' width='300'>
+   <img src='https://github.com/dallaszkorben/diy-floor.lamp/blob/master/pictures/produced.parts/electronincs/lamp.curcit_003.jpg' width='300'>
+
